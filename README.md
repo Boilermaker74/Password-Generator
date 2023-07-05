@@ -23,12 +23,6 @@ The user then has the option to create a new password simply by pressing the but
 
 The user exits the program by closing the web page.
 
-The use of special characters was problematic as some of them would crash the code. I was unable to determine which characters were at issue, so I just used a truncated list to accomplish the task. Xbox
+The use of special characters was problematic as some of them would crash the code. I was unable to determine which characters were at issue, so I just used a truncated list to accomplish the task.
 
 Thank you.
-
-
-
-
-
-
